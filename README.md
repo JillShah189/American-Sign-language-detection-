@@ -1,2 +1,3 @@
 # American-Sign-language-detection-
-Loading images from the system and predicting those letters. 
+Sign Language Gesture Recognition From Video Sequences Using Resnet
+Dataset - https://www.kaggle.com/datasets/muhammadkhalid/sign-language-for-alphabets
